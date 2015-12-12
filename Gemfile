@@ -10,5 +10,4 @@ gem "ruboty-talk"
 gem "ruboty-hitozuma"
 gem "ruboty-scorekeeper"
 gem "ruboty-kokodeikku"
-gem 'ruboty-misawa', github: 'mzp/ruboty-misawa'
 gem "ruboty-good-night", require: "ruboty/good_night"
